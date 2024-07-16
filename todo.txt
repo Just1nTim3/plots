@@ -1,0 +1,5 @@
+
+    szerokosc polowkowa
+
+    tabelka zeby sie robila - po przeskalowaniu
+    
