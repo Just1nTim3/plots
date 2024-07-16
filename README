@@ -2,8 +2,9 @@ Install:
 python and add to path
 add pip directory to path
 install matplotlib
+    py -m pip install -U matplotlib
 install pandas
-install numpy (probably installs with matplotlib)
+    py -m pip install -U pandas
 
 
 How to run:
