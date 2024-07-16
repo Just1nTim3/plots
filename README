@@ -8,7 +8,6 @@ install pandas
 
 
 How to run:
-1. Usuń pliki z folderu /data
-2. Wrzuć tam pliki z których chcesz zrobić wykresy
-3. Otwórz terminal albo kliknij 'terminal -> new terminal'
-4. Wpisz "py plot.py" + enter
+1. Add CSV files to /data directory
+2. Open terminal or press "terminal -> new terminal" (VS Code)
+3. Use "py plot.py"
